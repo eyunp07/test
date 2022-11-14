@@ -46,6 +46,8 @@ git config --global user.eamil "이메일"
 
  git push origin 원격 저장소 브랜치명
 
+git remote set-url origin "https://github-username@github.com/github-username/github-repository-name.git"
+
 
 
 
